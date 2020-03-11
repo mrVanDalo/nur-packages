@@ -1,3 +1,5 @@
-# my nur-packages
+**My personal [NUR](https://github.com/nix-community/NUR) repository**
 
-My nur packages forked from https://github.com/mrVanDalo/nur-packages-template and added my packages
+[![Build Status](https://travis-ci.com/mrVanDalo/nur-packages.svg?branch=master)](https://travis-ci.com/mrVanDalo/nur-packages)
+
+
