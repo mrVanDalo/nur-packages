@@ -14,6 +14,10 @@
   modules = import ./modules; # NixOS modules
   overlays = import ./overlays; # nixpkgs overlays
 
+  # video/photo
   fuji-cam-wifi-tool = pkgs.callPackage ./pkgs/fuji-cam-wifi-tool { };
+
+  # audio
+  wolf-spectrum = pkgs.callPackage ./pkgs/wolf-spectrum { };
 }
 
