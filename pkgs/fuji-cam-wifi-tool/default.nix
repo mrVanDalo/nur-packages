@@ -21,7 +21,7 @@ stdenv.mkDerivation rec {
     description =
       "Trying to reverse-engineer the wifi remote control protocol used by Fuji X series cameras";
     homepage = "https://github.com/hkr/fuji-cam-wifi-tool";
-    license = licenses.unknown;
+    license = licenses.unlicense;
     platforms = platforms.linux;
     maintainers = with maintainers; [ mrVanDalo ];
   };
