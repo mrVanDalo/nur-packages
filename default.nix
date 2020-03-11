@@ -16,6 +16,7 @@
 
   # video/photo
   fuji-cam-wifi-tool = pkgs.callPackage ./pkgs/fuji-cam-wifi-tool { };
+  pixelnuke = pkgs.callPackage ./pkgs/pixelnuke { };
 
   # audio
   wolf-spectrum = pkgs.callPackage ./pkgs/wolf-spectrum { };
